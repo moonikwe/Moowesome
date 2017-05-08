@@ -1,0 +1,22 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "express": "^4.15.2",
+    "nunjucks": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@webeng.arnellebalane.com:Moonikwe/personal-website.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
