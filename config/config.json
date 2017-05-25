@@ -1,0 +1,6 @@
+{
+  "development": {
+    "url": "postgres://moo:moowesome@localhost:5432/moowesome",
+    "dialect": "pg"
+  }
+}
